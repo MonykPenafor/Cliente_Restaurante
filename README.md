@@ -3,6 +3,7 @@
 ## Projeto: Sistema de Gestão de Vendas e Entregas de Refeições
 
 Este projeto é um cliente que consome a API REST desenvolvida para o sistema de gestão de um restaurante. O cliente foi implementado em Java, utilizando Maven, e contém testes unitários que garantem a funcionalidade das classes de serviço do servidor.
+
 Meu repositorio que tem os serviços é este: [Servidor_Restaurante](https://github.com/MonykPenafor/Servidor_Restaurante/tree/main).
 
 Todos os testes podem ser encontrados [nesta pasta](src/main/java/ifmt/cba).
