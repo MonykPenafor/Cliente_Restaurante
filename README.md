@@ -6,7 +6,7 @@ Este projeto é um cliente que consome a API REST desenvolvida para o sistema de
 
 Meu repositorio que tem os serviços é este: [Servidor_Restaurante](https://github.com/MonykPenafor/Servidor_Restaurante/tree/main).
 
-Todos os testes podem ser encontrados [nesta pasta](src/main/java/ifmt/cba).
+Todos os testes podem ser encontrados [nesta pasta](src/test/java/ifmt/cba).
 
 ## Funcionalidades
 
